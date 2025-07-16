@@ -65,7 +65,7 @@ Contiene información de 7032 clientes de TelecomX, incluyendo variables demogr�
 
 - **Fidelización temprana** (primeros 3‑6 meses).
 - Incentivar migración a **contratos anuales**.
-- Monitoreo proactivo de usuarios con **servicio de internet** y **fibra óptica**.
+- Monitoreo proactivo de usuarios con **fibra óptica**.
 
 ---
 
